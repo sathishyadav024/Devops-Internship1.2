@@ -119,6 +119,8 @@ ssh -i <your-key-pair.pem> ubuntu@<your-ec2-public-ip>
 
 - `Medusa-Headless e-commerce`
 
+- `Scripting`
+  
 ## `Contact`
 
 
